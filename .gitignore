@@ -1,0 +1,4 @@
+build/**
+!build/bootloader
+!build/esp32_main_app.bin
+!build/partitions_example.bin

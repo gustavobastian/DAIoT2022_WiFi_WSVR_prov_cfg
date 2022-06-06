@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "bleprph.h": "c",
+        "*.ipp": "c",
+        "*.contiki": "c",
+        "type_traits": "c"
+    },
+    "idf.adapterTargetName": "esp32",
+    "idf.flashType": "UART",
+    "idf.port": "/dev/ttyUSB0"
+}
